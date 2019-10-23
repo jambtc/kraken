@@ -1,6 +1,6 @@
 # kraken
 
-Client libraries for use with the kraken.com API.
+Client libraries for use with the kraken.com API. Now support proxy settings.
 
 php/: Kraken authored PHP client library. Requires PHP with curl support.
 
