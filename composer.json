@@ -1,5 +1,5 @@
 {
-  "name": "jambtc/kraken-api-client",
+  "name": "jambtc/kraken",
   "type": "library",
   "description": "PHP Api for Kraken.com",
   "keywords": ["kraken"],
